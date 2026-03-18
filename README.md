@@ -52,10 +52,10 @@ print("Q =\n", Q)
 print("R =\n", R)
 ```
 ## Output
-```
+
 ![8th](https://github.com/user-attachments/assets/c0cf4746-b0b3-44b6-b7da-ee8847a787f1)
 
-```
+
 
 ## Result
 ```
